@@ -78,6 +78,8 @@
 
 <body>
 
+<p>Welcome to my training project</p> 
+
 <div class="container">
     <h2>قائمة الكتب</h2>
 
