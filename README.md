@@ -64,3 +64,35 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+// -----------------------------------------------------------------  
+
+
+# GitHub Training Project
+
+## Project Description
+This is a simple books management project created for field training using Laravel.
+
+## Technologies Used
+- HTML
+- CSS
+- Laravel
+- Git
+- GitHub
+
+## Features
+- Display books
+- Edit books
+- Delete books
+- Responsive table design
+
+## How to Run
+1. Open the project folder
+2. Run the Laravel server
+3. Open the browser
+
+## Screenshots
+Add screenshots here
+
+## Student Name
+محمد السكافي
