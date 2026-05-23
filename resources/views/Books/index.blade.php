@@ -78,7 +78,11 @@
 
 <body>
 
-<p>Welcome to my training project</p> 
+
+<h1 style="text-align:center; color:#4a90e2;">
+    Welcome to my training project
+</h1>
+
 
 <div class="container">
     <h2>قائمة الكتب</h2>
