@@ -88,7 +88,7 @@
 
 
 <div class="container">
-<h2 style="color:#4a90e2;">📚 قائمة الكتب</h2>
+<h2 style="color:#4a90e2;">  قائمة الكتب الجديدة git add . </h2>
 
     <table>
         <tr>
