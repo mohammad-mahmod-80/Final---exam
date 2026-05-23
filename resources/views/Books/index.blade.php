@@ -70,6 +70,7 @@
             border-radius: 5px;
             cursor: pointer;
             font-weight: bold;
+            
         }
 
         button:hover {
@@ -81,7 +82,7 @@
 <body>
 
 
-<h1 style="text-align:center; color:#4a90e2;">
+<h1 style="text-align:center; color:darkred;">
     Welcome to my training project
 </h1>
 
