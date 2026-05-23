@@ -29,6 +29,7 @@
             background-color: white;
             box-shadow: 0 0 10px #ddd;
             border-radius: 10px;
+            border: 2px solid #4a90e2;
             overflow: hidden;
         }
 
