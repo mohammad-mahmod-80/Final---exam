@@ -89,8 +89,6 @@ This is a simple books management project created for field training using Larav
 
 ## Screenshots
 
-
-
 ## How to Run
 1. Open the project folder
 2. Run the Laravel server
